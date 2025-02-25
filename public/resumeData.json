@@ -1,0 +1,227 @@
+{
+  "main": {
+    "name": "Snehal Bhagwate",
+    "occupation": "Software Engineer/Full-Stack Developer",
+    "description": "As a motivated Full Stack Developer, I bring experience in SDLC and Agile methodologies, delivering high-quality web applications with precision and accuracy. I excelent in problem-solving and have a strong background in internships, freelancing, and the development of 'Devaten', a database performance optimization tool.",
+    "image": "profilesb.jpg",
+    "bio": "Software Engineer and Full Stack Developer with expertise in designing, developing, and deploying scalable web applications, combining strong technical skills with a passion for problem-solving and innovation.",
+    "contactmessage": "Got questions or need assistance? Reach out to us through the form below, and we'll get back to you as soon as possible!",
+    "email": "snehalporatkar10g@gmail.com",
+    "phone": "+91 7218336380",
+    "address": {
+      "street": "B-1601, R16 Sector Society, LifeRepublic Township, Marunji, Hinjewadi",
+      "city": "Pune",
+      "state": "Maharashta",
+      "zip": "411057"
+    },
+    "website": "#",
+    "resumedownload": "resume/Snehal Bhagwate.pdf",
+    "social": [
+      {
+        "name": "facebook",
+        "url": "#",
+        "className": "fa fa-facebook"
+      },
+      {
+        "name": "twitter",
+        "url": "#",
+        "className": "fa fa-twitter"
+      },
+      {
+        "name": "linkedin",
+        "url": "#",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "instagram",
+        "url": "#",
+        "className": "fa fa-instagram"
+      },
+      {
+        "name": "github",
+        "url": "#",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "Experienced in full-stack development with expertise in JavaScript, React, Node.js, MongoDB, and SQL. Skilled in building responsive UIs, optimizing backend systems, and leveraging Agile methodologies for efficient project delivery.",
+    "education": [
+      {
+        "school": "Nagpur University",
+        "degree": "Bachelor of Engineering (IT)",
+        "graduated": "April 2011",
+        "description": "Gained hands-on experience in software development, database management, networking, and problem-solving, with practical exposure to real-world IT projects and technologies."
+      },
+      {
+        "school": "Maharashtra State Board Of Technical Education",
+        "degree": "Diploma (IT)",
+        "graduated": "April 2008",
+        "description": "A Diploma in Information Technology equips students with practical skills in software development, networking, and IT systems for entry-level tech roles."
+      },
+      {
+        "school": "Maharashtra State Board",
+        "degree": "SSC",
+        "graduated": "April 2005",
+        "description": "The Secondary School Certificate (SSC) is a foundational academic qualification, typically awarded after completing high school, covering subjects like mathematics, science, languages, and social studies."
+      }
+    ],
+    "work": [
+      {
+        "company": "Growsoft Technologies LLP",
+        "title": "Full-Stack Deveploper",
+        "years": "December 2023 - Present",
+        "description": "with your experience in Full Stack Development, you have a strong background in building and maintaining web applications, ensuring seamless functionality and performance across both the front-end and back-end."
+      },
+      {
+        "company": "Freelancer",
+        "title": "Software Engineer/Developer",
+        "years": "June 2023 - December 2023",
+        "description": "I have worked on diverse projects, delivering tailored software solutions and ensuring high-quality, scalable applications. My focus includes both front-end and back-end development, utilizing technologies like JavaScript, React, and Node.js to meet client needs."
+      },
+      {
+        "company": "TrioNxt Software Solutions Pvt. Ltd",
+        "title": "Junior Software Engineer",
+        "years": "April 2022 - June 2023",
+        "description": "Developing and testing software applications with precision and accuracy.Collaborating with teams to identify and prioritize project requirements."
+      },
+      {
+        "company": "Tata Capitals",
+        "title": "Junior Software Engineer",
+        "years": "October 2016 - February 2019",
+        "description": "Analyzing performance metrics and implementing data-driven solutions to optimize results."
+      },
+      {
+        "company": "Ni-Lux Softwares",
+        "title": "Web Developer",
+        "years": "May 2014 - December 2014",
+        "description": "Design and develop responsive, user-friendly, and scalable websites."
+      },
+      {
+        "company": "Umrer Polytechnic Collage",
+        "title": "Lecturer",
+        "years": "July 2012 - April 2013",
+        "description": "Teach and mentor students in various subjects, promoting academic excellence and personal growth."
+      }
+
+    ],
+
+    "skills1":[
+      {
+       "name":"Tata Basic Employability Skills Training Program Of 'Business Process Outsourcing'.",
+       "years":"September 2016 - October 2016"
+      },
+      {
+        "name":"STP Java",
+        "years":"April 2015 - April 2016"
+      }
+
+    ],
+    "skills": [
+      {
+        "name": "Java",
+        "level": "90%"
+      },
+      {
+        "name": "SpringBoot",
+        "level": "96%"
+      },
+      {
+        "name": "ReactJs",
+        "level": "90%"
+      },
+      {
+        "name": "AngularJs",
+        "level": "90%"
+      },
+      {
+        "name": "MySQL",
+        "level": "95%"
+      },
+      {
+        "name": "HTML/CSS",
+        "level": "98%"
+      },
+      {
+        "name": "Swagger",
+        "level": "90%"
+      },
+      {
+        "name": "Postman",
+        "level": "95%"
+      },
+      {
+        "name": "Git",
+        "level": "90%"
+      },
+      {
+        "name": "BitBucket",
+        "level": "90%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "CSE PRO",
+        "category": "A React based Warehouse Dashboard.",
+        "image": "csepro.jpg",
+        "url": "#"
+      },
+      {
+        "title": "SnehDeep",
+        "category": "(offline now) Physiotherapist's services and appointments.",
+        "image": "snehdeep.png",
+        "url": "#"
+      },
+      {
+        "title": "Devaten",
+        "category": "Developed a database performance monitoring Web app.",
+        "image": "devaten.jpg",
+        "url": "https://app.devaten.com/"
+      },
+      {
+        "title": "Teen Talks",
+        "category": "Developed an app for adolescent health and care education.",
+        "image": "teentalks.jpg",
+        "url": "http://www.teentalks.com"
+      },
+      {
+        "title": "ServiceZoeker",
+        "category": "ServiceZoeker is a startup in the Netherlands. They help customers hire.",
+        "image": "sz.png",
+        "url": "https://servicezoeker.nl "
+      },
+      {
+        "title": "Camburf",
+        "category": "(Ofline now)Clothing Shop ",
+        "image": "cam.png",
+        "url": "https://camburf.nl "
+      },
+      {
+        "title": "AMM",
+        "category": "A Marathi man is an art, drama, history, collaborator, art and true.",
+        "image": "amm.png",
+        "url": "https://almeremaharashtramandal.nl/ "
+      },
+      {
+        "title": "Resume Portfolio",
+        "category": "Is a resume Portfolio Website created in React.",
+        "image": "resum.png",
+        "url": "# "
+      }
+    ]
+  },
+  "testimonials": {
+    "testimonials": [
+      {
+        "text": "Here you should write some nice things that someone has said about you. No lies though, employers can tell when you are lying.",
+        "user": "Kareem Abdul Jabbar"
+      },
+      {
+        "text": "That Tim Baker must be one of the most brilliant developers I've ever met! It is amazing that nobody has hired him yet. Hey you, you should hire this guy, he may be fresh out of University and have zero on the job experience but I am confident that he will be one of your best developers in no time!",
+        "user": "Steve Wozniak... impersonator"
+      }
+    ]
+  }
+}
